@@ -3,7 +3,6 @@
   "content_type": "integration",
   "homeassistant": "2024.12.0",
   "iot_class": "cloud_polling",
-  "zip_release": true,
   "domains": ["beepbasket"],
   "documentation": "https://github.com/meijerwynand/beepbasket/blob/main/README.md",
   "issue_tracker": "https://github.com/meijerwynand/beepbasket/issues"
