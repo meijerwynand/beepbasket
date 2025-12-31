@@ -11,5 +11,11 @@
   "iot_class": "cloud_polling",
   "integration_type": "service",
   "platforms": [] ,
-  "single_instance": true 
+  "single_instance": true ,
+  "resources": [
+    "www/beepbasket-card.js",
+    "www/beepbasket-table.js",
+    "www/beepbasket-ui.js",
+    "www/beepbasket-camera.js"
+  ]  
 }
