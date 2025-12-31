@@ -11,7 +11,7 @@
 
 ## Usage
 ```
-type: custom:beepbasket-card
+type: "custom:beepbasket-card"
 ```
 
 ## Services
@@ -92,4 +92,6 @@ text_sensor:
 
 ```
 
-## Barcode scanner details
+## Project details
+
+https://hackaday.io/project/204783-beepbasket
