@@ -20,34 +20,6 @@ beepbasket.add_mapping
 beepbasket.remove_mapping
 ```
 
-## Screenshots
-### Card
-
-Simple interface
-
-![BeepBasket Card](screenshots/card.png)
-
-### Items added
-
-Items added to you shopping list also checked on your BeepBasket
-
-![BeepBasket Added](screenshots/added.png)
-
-
-### Edit added
-
-Directly edit unknown items 
-
-![BeepBasket Added](screenshots/edit.png)
-
-
-### Camera support
-
-Scan directly from your device
-
-![BeepBasket Camera](screenshots/camera.png)
-
-
 
 ## External barcode scanner support
 
